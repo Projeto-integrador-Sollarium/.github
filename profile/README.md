@@ -9,7 +9,7 @@ O Sollarium é uma plataforma comprometida em promover o acesso à energia limpa
 Atualmente, o mundo enfrenta uma crise climática sem precedentes, com as emissões de carbono atingindo níveis alarmantes. A dependência de combustíveis fósseis para geração de energia é uma das principais causas desse problema. O Sollarium surge como uma solução para este desafio, oferecendo acesso fácil e conveniente a tecnologias e produtos de energia sustentável.
 
 🎯 **Nossa Missão**
-Nosso propósito central é promover a adoção generalizada de energia sustentável, tornando-a acessível a todos. Alinhados com os Objetivos de Desenvolvimento Sustentável da ONU, especialmente o ODS 7 (Energia Limpa e Acessível) e o ODS 13 (Ação Contra a Mudança Global do Clima), buscamos democratizar o acesso à energia renovável, contribuindo para um futuro mais sustentável e resiliente.
+Nosso propósito central é promover a adoção generalizada de energia sustentável, tornando-a acessível a todos. Alinhados com os Objetivos de Desenvolvimento Sustentável da ONU, especialmente o ODS 7 (Energia Limpa e Acessível), buscamos democratizar o acesso à energia renovável, contribuindo para um futuro mais sustentável e resiliente.
 
 💡 **Nossa Visão**
 No Sollarium, vislumbramos um mundo onde a energia limpa é a principal fonte de abastecimento, impulsionando o desenvolvimento sustentável e garantindo um futuro próspero para as gerações futuras. Acreditamos que a transição para a energia sustentável é não apenas necessária, mas também inevitável, e estamos comprometidos em liderar essa transformação.
